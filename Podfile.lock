@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.7.1)
+  - IBAnimatable (6.1.0)
+  - IQKeyboardManager (6.5.16)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IBAnimatable
+  - IQKeyboardManager
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IBAnimatable
+    - IQKeyboardManager
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  IBAnimatable: 99dddd4c0625884a301ba3ecbc1615f8a390368e
+  IQKeyboardManager: 024b54d7dcb765c5bc99882cb4d5ea24a8cb7c3c
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+
+PODFILE CHECKSUM: 649e91e85baa2da091c1ccdbd5d6fc73f8934e24
+
+COCOAPODS: 1.15.2
