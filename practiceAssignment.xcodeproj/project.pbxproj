@@ -31,12 +31,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A7890BE2E15E65B005A665A /* practiceAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = practiceAssignment.app; path = "/Users/highethics/Downloads/gittest/practiceAssessment/build/Debug-iphoneos/practiceAssignment.app"; sourceTree = "<absolute>"; };
 		3AF1ED5B2E15341500AC2DE8 /* APIConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIConstants.swift; sourceTree = "<group>"; };
 		3AF1ED5E2E15344D00AC2DE8 /* ContactViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewModel.swift; sourceTree = "<group>"; };
 		3AF1ED642E153B5D00AC2DE8 /* OtpViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtpViewModel.swift; sourceTree = "<group>"; };
 		3AF1ED662E153CF600AC2DE8 /* UserProfileModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileModel.swift; sourceTree = "<group>"; };
 		3AF1ED682E153D1100AC2DE8 /* HomeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewModel.swift; sourceTree = "<group>"; };
-		AFE4A2332CDA216000F27C65 /* practiceAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = practiceAssignment.app; path = "/Users/highethics/Downloads/practiceAssessment/build/Debug-iphoneos/practiceAssignment.app"; sourceTree = "<absolute>"; };
 		AFE4A2362CDA216000F27C65 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AFE4A2382CDA216000F27C65 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		AFE4A23D2CDA216000F27C65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -180,7 +180,7 @@
 			);
 			name = practiceAssignment;
 			productName = practiceAssignment;
-			productReference = AFE4A2332CDA216000F27C65 /* practiceAssignment.app */;
+			productReference = 3A7890BE2E15E65B005A665A /* practiceAssignment.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
